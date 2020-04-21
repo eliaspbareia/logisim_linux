@@ -73,7 +73,7 @@ Terminal=false
 Type=Application
 Categories=Application;
 ATALHO
-
+ln -s /usr/share/applications/logisim.desktop $HOME/$USERS/Desktop
 echo -e "${Text}Inté..."
 sleep 1.5
 echo -e "${Return}"
