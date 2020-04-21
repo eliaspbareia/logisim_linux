@@ -11,3 +11,5 @@ Dê privilégios de execução.
 
 Abra um terminal e:
 ## sudo ./installLogisim.sh
+
+Em alguns casos a máquina deve ser reiniciada.
