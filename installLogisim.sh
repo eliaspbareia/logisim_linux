@@ -7,7 +7,7 @@
 Text='\033[1;32m' 
 Err='\033[1;31m'
 Return='\033[1;30m'
-usuario='/home/eliaspbareia' # modifique para seu usuário
+usuario='/home/<usuario>' # modifique para seu usuário
 data_link="https://ufpr.dl.sourceforge.net/project/circuit/2.7.x/2.7.1/logisim-generic-2.7.1.jar"
 
 # Verifica se o usuário está como root
